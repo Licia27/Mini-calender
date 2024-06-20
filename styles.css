@@ -55,3 +55,14 @@ body {
     font-size: 40px;
     line-height: 30px;
 }
+footer {
+    font-size: 11px;
+    margin: 10px 0;
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+}
+a {
+text-decoration: none;
+color: blue;
+}
